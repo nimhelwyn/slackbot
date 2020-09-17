@@ -1,0 +1,467 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/Module.class
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/BotController.class
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/services/BotService.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/ReverseAssets.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/ReverseBotController.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/javascript/ReverseBotController.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/routes$javascript.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/routes.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/Routes.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/RoutesPrefix$.class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/RoutesPrefix.class
+binary dependencies:
+13 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> /home/miki/.ivy2/cache/com.google.inject/guice/jars/guice-4.2.3.jar
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> /home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> /home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> /home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> /home/miki/IdeaProjects/slackbot/app/services/BotService.scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> /home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> /home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Module
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> controllers.BotController
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> services.BotService
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseAssets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseBotController
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseBotController
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> controllers.routes
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> controllers.routes$javascript
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> router.Routes
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$
+used names:
+292 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> <init>
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> AbstractModule
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> AnnotatedBindingBuilder
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Any
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> BotService
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Class
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Clock
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Module
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Nothing
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> T
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> Unit
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> asEagerSingleton
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> bind
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> com
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> google
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> inject
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> java
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> services
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> systemDefaultZone
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> time
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> toInstance
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> <init>
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> AbstractController
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Action
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> ActionBuilder
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Any
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> AnyContent
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> BotController
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> C
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Codec
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> ControllerComponents
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> ExecutionContext
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Function1
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Nothing
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Ok
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Predef
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Request
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Result
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Status
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> String
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> Writeable
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> api
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> apply
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> cc
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> concurrent
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> controllers
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> http
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> inject
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> javax
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> mvc
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> play
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> scala
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> utf_8
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> wString
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> <init>
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> AnyRef
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> ApplicationLifecycle
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> BotService
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> Clock
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> Future
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> Instant
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> Logger
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> Object
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> api
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> concurrent
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> inject
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> java
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> javax
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> play
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> scala
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> services
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> time
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> +
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <byname>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <init>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <refinement>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <repeated>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> A
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Any
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> AnyRef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Asset
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Assets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> B
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Boolean
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Call
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Map
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Nothing
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Object
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> PathBindable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Predef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseAssets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseBotController
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseRouteContext
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Right
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> String
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T2
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Tuple2
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _defaultPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _prefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _root_
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _rrc
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> api
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> apply
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> assetPathBindable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> core
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> endsWith
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> file
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> implicitly
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> mvc
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> play
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> routing
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> unbind
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> +
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <byname>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <init>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <refinement>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Any
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> AnyRef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Asset
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Assets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Boolean
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Nothing
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Object
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> PathBindable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Predef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseAssets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseBotController
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseRouteContext
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Right
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> String
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> T
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _defaultPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _prefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _root_
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> api
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> assetPathBindable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> empty
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> endsWith
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> implicitly
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascript
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascriptUnbind
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> mvc
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> play
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> routing
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> +
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> ++
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> :+
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> <byname>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> <init>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> <refinement>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> <repeated>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> ?0
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> A
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> A1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> A2
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> AbstractPartialFunction
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Action
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Any
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> AnyContent
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> AnyRef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Asset
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Assets
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Assets_0
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> B
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> B1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Boolean
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> BotController
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> BotController_1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> CanBuildFrom
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Class
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> ClassLoader
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Coll
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> DynamicPart
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Either
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Function1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Function2
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> GenTraversableOnce
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> GeneratedRouter
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Handler
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> HandlerDef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> HandlerInvoker
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> HandlerInvokerFactory
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> HttpErrorHandler
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> List
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Nil
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> None
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Nothing
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Object
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Option
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Param
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> ParamsExtractor
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> PartialFunction
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> PathBindable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> PathPart
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> PathPattern
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Predef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Product
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> RequestHeader
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> ReverseRouteContext
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Right
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Route
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> RouteParams
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Router
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Routes
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> RoutesPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Seq
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Serializable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> StaticPart
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> String
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> T
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> T0
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> T1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> T2
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> T3
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> That
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Tuple3
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> Unit
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> _$1
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> addPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> api
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> apply
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> asInstanceOf
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> assetPathBindable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> call
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> canBuildFrom
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> collection
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> concatPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Assets_versioned2_invoker
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Assets_versioned2_route
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers_BotController_getMessage1_invoker
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers_BotController_getMessage1_route
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers_BotController_index0_invoker
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> controllers_BotController_index0_route
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> core
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> createInvoker
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> defaultPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> e
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> empty
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> endsWith
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> errorHandler
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> fakeValue
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> file
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> foldLeft
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> fromPath
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> get
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> getClass
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> getClassLoader
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> getMessage
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> http
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> immutable
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> index
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> isEmpty
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> isInstanceOf
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> mvc
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> package
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> params
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> passThrough
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> path
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> play
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> prefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> router
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> routing
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> s
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> scala
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> setPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> unapply
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> unary_!
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> unchecked
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> versioned
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> <init>
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> AnyRef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Function0
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Object
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Predef
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> RoutesPrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> String
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Unit
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> _prefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> _prefix_=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> byNamePrefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> p
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> prefix
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> scala
+product stamps:
+13 items
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/Module.class -> lastModified(1600343798520)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/BotController.class -> lastModified(1600343903729)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/ReverseAssets.class -> lastModified(1600343798524)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/ReverseBotController.class -> lastModified(1600343798524)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class -> lastModified(1600343798528)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/javascript/ReverseBotController.class -> lastModified(1600343798528)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/routes$javascript.class -> lastModified(1600343801444)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/controllers/routes.class -> lastModified(1600343801452)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class -> lastModified(1600343909397)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/Routes.class -> lastModified(1600343909397)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/RoutesPrefix$.class -> lastModified(1600343798528)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/router/RoutesPrefix.class -> lastModified(1600343798528)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/classes/services/BotService.class -> lastModified(1600343798524)
+source stamps:
+8 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> hash(d80c314ac47e52abf208614aa83ccc5fc264f967)
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> hash(426b5737a29a69052a28e92d4f087608d119e532)
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> hash(fe54c0b5a03fef87546c2581da4276f731e644cf)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> hash(61a4d88eb6c82ec357569ae276f14067d17b8bd2)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> hash(a92d18da7b8efea869f67ae7c2900e73ced321a4)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> hash(aaa2823a9a51fb84bb1a9c7eab1bfc9354f0570c)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> hash(fbaa46847ebee8816ff262bd830ee6c84e1435fd)
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> hash(38f5b63142bd8aa310584a437b62d9c0ad8202f3)
+binary stamps:
+3 items
+/home/miki/.ivy2/cache/com.google.inject/guice/jars/guice-4.2.3.jar -> lastModified(1584647910000)
+/home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar -> lastModified(1590068227000)
+/home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+/home/miki/.ivy2/cache/com.google.inject/guice/jars/guice-4.2.3.jar -> com.google.inject.AbstractModule
+/home/miki/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.8.2.jar -> play.core.routing.GeneratedRouter
+/home/miki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.runtime.AbstractPartialFunction
+internal apis:
+8 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGoy7TgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCvmFonQABm5vdGlmeXNxAH4ADEwDaD90AAxiaW5kTGlzdGVuZXJzcQB+AAyun6WOdAAEd2FpdHNxAH4ADK6s+GJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLXWqjnQAFnJlcXVlc3RTdGF0aWNJbmplY3Rpb25zcQB+AAzdjxN8dAAOcmVxdWlyZUJpbmRpbmdzcQB+AAwt520pdAAGYmluZGVyc3EAfgAMpdJd4HQABmVxdWFsc3NxAH4ADMyWObd0AAtnZXRQcm92aWRlcnNxAH4ADNsT8fp0AAxhc0luc3RhbmNlT2ZzcQB+AAzmglzIdAAJYmluZFNjb3Blc3EAfgAMf6V4HXQADHN5bmNocm9uaXplZHNxAH4ADN5p0NB0AARiaW5kc3EAfgAM/cgNLHQADSRpc0luc3RhbmNlT2ZzcQB+AAxdDXpWdAAJY29uZmlndXJlc3EAfgAMn9UvhXQAEHJlcXVlc3RJbmplY3Rpb25zcQB+AAwdyNeYdAAJbm90aWZ5QWxsc3EAfgAMwoFFgnQACGFkZEVycm9yc3EAfgAMYjs24nQADGlzSW5zdGFuY2VPZnNxAH4ADGg2GtV0AA9iaW5kSW50ZXJjZXB0b3JzcQB+AAzRRLRrdAAGPGluaXQ+c3EAfgAMklECInQAEmdldE1lbWJlcnNJbmplY3RvcnNxAH4ADPKaILh0AAI9PXNxAH4ADPoOkr90AAVjbG9uZXNxAH4ADMBjIWV0AAxiaW5kQ29uc3RhbnRzcQB+AAwGSXEkdAAIdG9TdHJpbmdzcQB+AAya5ApMdAACIT1zcQB+AAy8F25DdAAIZ2V0Q2xhc3NzcQB+AAwl1YNbdAAHaW5zdGFsbHNxAH4ADMbBE1N0AAxjdXJyZW50U3RhZ2VzcQB+AAycjMsudAACbmVzcQB+AAza8dpadAACZXFzcQB+AAw4pNdPdAAGTW9kdWxlc3EAfgAMBp6Xr3QADmNvbnZlcnRUb1R5cGVzc3EAfgAMLDrUUnQAAiMjc3EAfgAMIUVC23QACGZpbmFsaXplc3EAfgAMvRJ+xnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AeXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AH5zcQB+AHl1cQB+AFwAAAAAc3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfXQADkFic3RyYWN0TW9kdWxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANjb21zcQB+AJZ0AAZnb29nbGVzcQB+AJZ0AAZpbmplY3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Al3NxAH4AinQABk1vZHVsZXEAfgCQc3EAfgCKdAAGT2JqZWN0c3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnQABGphdmFzcQB+AJZ0AARsYW5ncQB+AJ9zcQB+AIp0AANBbnlzcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWdAAFc2NhbGFxAH4An3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0m+w23HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADovaG9tZS9taWtpL0lkZWFQcm9qZWN0cy9zbGFja2JvdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU2AwxSsR+UqvyCGFKqDzMX8Jk+Wc=
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwX937ZAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBd28B+dAANZmlsZU1pbWVUeXBlc3NxAH4AC7MkwdN0AA9yZXF1ZXN0MnNlc3Npb25zcQB+AAvp7vyTdAALbWVzc2FnZXNBcGlzcQB+AAvHKeredAAOc3VwcG9ydGVkTGFuZ3NzcQB+AAsCNZLTdAANcmVxdWVzdDJmbGFzaHVxAH4ACQAAAR9zcQB+AAvgvInrdAAMUmVzZXRDb250ZW50c3EAfgALHdS9mXQADU5vdEFjY2VwdGFibGVzcQB+AAtQU+55dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAvgkd66dAAIc2VuZEZpbGVzcQB+AAtMiQLWdAAIbmV3Rmxhc2hzcQB+AAtyRGMUdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALDhUSfnQABkxvY2tlZHNxAH4AC6CsE3V0AAZub3RpZnlzcQB+AAvAToU/dAAERlJPTXNxAH4AC5oCxld0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALvG9+nnQAB0NSRUFURURzcQB+AAtW3E0edAAHdW5hcHBseXNxAH4ACyUzSa90AA9YX0ZSQU1FX09QVElPTlNzcQB+AAtvJxIDdAAHV0FSTklOR3NxAH4AC6plWt50AAhIVFRQXzJfMHNxAH4AC2TDx2F0AA9QYXltZW50UmVxdWlyZWRzcQB+AAuTvTeRdAAIQ09OVElOVUVzcQB+AAtZ1Z3EdAAEYm9keXNxAH4AC5Pnynx0AAVYSFRNTHNxAH4AC0yUcl10AAtTRVRfQ09PS0lFMnNxAH4AC9UO2u50AAhIVFRQXzFfMXNxAH4AC12KxXt0ABViYWtlQ29va2llcyRkZWZhdWx0JDJzcQB+AAv6xBOpdAATQ09OVEVOVF9ESVNQT1NJVElPTnNxAH4ACzaMmhl0AAxDT05URU5UX1RZUEVzcQB+AAvdClYsdAAGQklOQVJZc3EAfgALbGq7knQABHdhaXRzcQB+AAtuCeiMdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4AC+L+uDR0AApCYWRHYXRld2F5c3EAfgALmit0HXQAEE1ldGhvZE5vdEFsbG93ZWRzcQB+AAtl7X9HdAAKVVNFUl9BR0VOVHNxAH4AC19UnCl0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQyc3EAfgALiC4+cnQABEhPU1RzcQB+AAv87YSMdAALQ09OVEVOVF9NRDVzcQB+AAtZY/9ndAAOY29weSRkZWZhdWx0JDJzcQB+AAtv7sCBdAAHQ3JlYXRlZHNxAH4AC79Moah0AA0kYXNJbnN0YW5jZU9mc3EAfgALrG2efnQAEFhfRk9SV0FSREVEX1BPUlRzcQB+AAtaNYTedAASU3dpdGNoaW5nUHJvdG9jb2xzc3EAfgALLIPTnHQACkphdmFTY3JpcHRzcQB+AAvxxTzUdAALQkFEX1JFUVVFU1RzcQB+AAtVxL3edAAOTm90SW1wbGVtZW50ZWRzcQB+AAuh5QPAdAAMTUFYX0ZPUldBUkRTc3EAfgAL9Mac7nQADmNvcHkkZGVmYXVsdCQ1c3EAfgALSBzVPnQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAuiA7fmdAAXQ09OVEVOVF9TRUNVUklUWV9QT0xJQ1lzcQB+AAvFSlkcdAADQ1NTc3EAfgAL9UlqHXQAIVhfUEVSTUlUVEVEX0NST1NTX0RPTUFJTl9QT0xJQ0lFU3NxAH4AC0Y0x1x0AAhTZWVPdGhlcnNxAH4AC70tSMt0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQ1c3EAfgAL+YwAr3QAB1RSQUlMRVJzcQB+AAtvuzMtdAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgAL0VYYsXQADUFVVEhPUklaQVRJT05zcQB+AAvwB4VtdAADWE1Mc3EAfgALWHgEXHQADUNBQ0hFX0NPTlRST0xzcQB+AAssPZnhdAAVYmFrZUNvb2tpZXMkZGVmYXVsdCQxc3EAfgALlv2k33QAG05vbkF1dGhvcml0YXRpdmVJbmZvcm1hdGlvbnNxAH4ACxqrcW50AA9OT1RfSU1QTEVNRU5URURzcQB+AAsRRZq3dAAWWF9DT05URU5UX1RZUEVfT1BUSU9OU3NxAH4AC57y6Sd0AAxwcm9kdWN0QXJpdHlzcQB+AAvFN/QDdAAGZXF1YWxzc3EAfgALVjo523QAEFBBWU1FTlRfUkVRVUlSRURzcQB+AAsDNt2KdAAIQWNjZXB0ZWRzcQB+AAspXxeDdAALUkVUUllfQUZURVJzcQB+AAsIQv4XdAASUmVkaXJlY3QkZGVmYXVsdCQyc3EAfgALXsf+JXQABEpTT05zcQB+AAtlb2JjdAAIUmVkaXJlY3RzcQB+AAsGY08udAATUFJFQ09ORElUSU9OX0ZBSUxFRHNxAH4AC2QAxlR0AA5QYXJ0aWFsQ29udGVudHNxAH4AC5de2fR0ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4ACwwlEBh0AAhDT05GTElDVHNxAH4AC3Iq9Cx0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAsAGSOqdAAOQUNDRVBUX0NIQVJTRVRzcQB+AAtxCkUWdAARUGVybWFuZW50UmVkaXJlY3RzcQB+AAvAY98MdAAKbmV3Q29va2llc3NxAH4AC8y9nSd0ABFFeHBlY3RhdGlvbkZhaWxlZHNxAH4AC5eoVqB0AANWSUFzcQB+AAtnlgA1dAAMYXNJbnN0YW5jZU9mc3EAfgAL+3PL3XQADUJvdENvbnRyb2xsZXJzcQB+AAv3qHiMdAAPUkVRVUVTVF9USU1FT1VUc3EAfgALNusao3QAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAvw63/YdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAsnchgLdAACVEVzcQB+AAtYgLxMdAAOR2F0ZXdheVRpbWVvdXRzcQB+AAvHBnRNdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4AC3xdGNl0AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAtSM6HAdAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4ACwd09it0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4AC+8gF8p0AAxFVkVOVF9TVFJFQU1zcQB+AAs8xqKmdAAMc3luY2hyb25pemVkc3EAfgAL3VK6r3QAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAufAnX8dAAERVRBR3NxAH4AC8GTeh50AA9MRU5HVEhfUkVRVUlSRURzcQB+AAsDKumcdAAOd2l0aE5ld1Nlc3Npb25zcQB+AAswBwwOdAAKSkFWQVNDUklQVHNxAH4AC3/kydt0AA5FbnRpdHlUb29MYXJnZXNxAH4ACwOxQc90AAxVTkFVVEhPUklaRURzcQB+AAtaonnMdAASc2VuZFBhdGgkZGVmYXVsdCQyc3EAfgALZFC8MHQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAtZz24NdAAXZGVmYXVsdEV4ZWN1dGlvbkNvbnRleHRzcQB+AAuEzkiPdAANJGlzSW5zdGFuY2VPZnNxAH4ACzd4uzx0AAhzdHJlYW1lZHNxAH4AC42WUSF0AAdSRUZFUkVSc3EAfgALbY1HzHQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC78lpzV0AAZPUklHSU5zcQB+AAuTQVTYdAALd2l0aENvb2tpZXNzcQB+AAuXl9ludAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALcAeUx3QADE5PVF9NT0RJRklFRHNxAH4ACxpL/Nl0AAJhc3NxAH4AC8dTg0J0ABRjb250cm9sbGVyQ29tcG9uZW50c3NxAH4AC47U9ux0AAt3aXRoU2Vzc2lvbnNxAH4AC9hIWR10ABViYWtlQ29va2llcyRkZWZhdWx0JDNzcQB+AAtUqMJsdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAvthVugdAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALPSdUw3QAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC3tjCuN0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALAdkVynQAEFhfWFNTX1BST1RFQ1RJT05zcQB+AAvpfAUmdAAJSW1BVGVhcG90c3EAfgAL3b3AdHQAFFByZWNvbmRpdGlvblJlcXVpcmVkc3EAfgALqbb5GnQACGNhbkVxdWFsc3EAfgALFIZaf3QACE5vdEZvdW5kc3EAfgALQmYvlXQACElGX1JBTkdFc3EAfgALVUoedHQAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4AC4/UTA90AA9SRUZFUlJFUl9QT0xJQ1lzcQB+AAsIOsfIdAAOY29weSRkZWZhdWx0JDRzcQB+AAvcanXtdAAIZmxhc2hpbmdzcQB+AAvvnz0xdAAERk9STXNxAH4AC10kn9x0ABNJRl9VTk1PRElGSUVEX1NJTkNFc3EAfgALY+216XQAEnN0cmVhbWVkJGRlZmF1bHQkM3NxAH4ACxSpIp90ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgALINCOLHQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4AC+7doL50AA1wcm9kdWN0UHJlZml4c3EAfgALukI9knQADkNPTlRFTlRfTEVOR1RIc3EAfgALdZJ0CXQAC0lNX0FfVEVBUE9Uc3EAfgALuxDCuXQAClNFVF9DT09LSUVzcQB+AAtf8mgVdAAJbm90aWZ5QWxsc3EAfgALYA+z/XQAA0FHRXNxAH4AC3i04Bt0AAtCQURfR0FURVdBWXNxAH4AC8/jMxN0ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAvl0rpsdAAKQ09OTkVDVElPTnNxAH4AC0etbXp0AAlGT1JXQVJERURzcQB+AAssy4kMdAACT2tzcQB+AAvTqB2tdAAMaXNJbnN0YW5jZU9mc3EAfgALC4T69HQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAtbX2YidAACT0tzcQB+AAsakT7NdAAGYXNKYXZhc3EAfgALfZtvV3QAEWRpc2NhcmRpbmdDb29raWVzc3EAfgALVcIunXQABExJTktzcQB+AAt49W4NdAAmWF9DT05URU5UX1NFQ1VSSVRZX1BPTElDWV9OT05DRV9IRUFERVJzcQB+AAsY+7LadAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4AC0tHZQl0AApuZXdTZXNzaW9uc3EAfgALlDWHz3QAGVNUUklDVF9UUkFOU1BPUlRfU0VDVVJJVFlzcQB+AAungrmndAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAtDDfKadAAJRm9yYmlkZGVuc3EAfgALNhwZtXQAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgALod3rt3QABFRFWFRzcQB+AAtJ3f7idAAKQmFkUmVxdWVzdHNxAH4AC5D6YOB0AAVGT1VORHNxAH4AC5znu250AAY8aW5pdD5zcQB+AAsiXhVhdAALTm90TW9kaWZpZWRzcQB+AAslqFBzdAAEREFURXNxAH4AC/RQp4Z0ABBkaXNjYXJkaW5nSGVhZGVyc3EAfgALj5cwO3QABWFzeW5jc3EAfgALRrqbEnQACmdldE1lc3NhZ2VzcQB+AAtyKux1dAANQ09OVEVOVF9SQU5HRXNxAH4AC2j2j1F0AAQkYW1wc3EAfgALT0ORL3QADHNlbmRSZXNvdXJjZXNxAH4AC/1mCTh0AAdjaHVua2Vkc3EAfgALJ8IOc3QAEVRSQU5TRkVSX0VOQ09ESU5Hc3EAfgALIu6mWXQAElBFUk1BTkVOVF9SRURJUkVDVHNxAH4AC6Frj+Z0AAVhcHBseXNxAH4AC3yHkcR0ABFUT09fTUFOWV9SRVFVRVNUU3NxAH4AC3SUw9x0AAVwYXJzZXNxAH4AC+mrTUB0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALJhk28HQAAj09c3EAfgAL5LOM63QABEdPTkVzcQB+AAszweoRdAAER29uZXNxAH4ACxaESed0ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4AC/0IB0l0AA5OT1RfQUNDRVBUQUJMRXNxAH4AC4IDbF90AAVjbG9uZXNxAH4AC6PCNUx0ABVQUkVDT05ESVRJT05fUkVRVUlSRURzcQB+AAvNWsSidAAGRVhQRUNUc3EAfgALz79lq3QAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDNzcQB+AAscSc0udAAfUkVRVUVTVF9IRUFERVJfRklFTERTX1RPT19MQVJHRXNxAH4AC9orli90ABJTZXJ2aWNlVW5hdmFpbGFibGVzcQB+AAtYAubXdAAITE9DQVRJT05zcQB+AAvfzzt5dAASc2VuZFBhdGgkZGVmYXVsdCQ0c3EAfgAL/MLqOXQABFZBUllzcQB+AAs5F3IUdAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4AC+HWJZp0AARUT0RPc3EAfgAL3ex7pXQAEWNodW5rZWQkZGVmYXVsdCQyc3EAfgALoo/6MXQAD1hfRk9SV0FSREVEX0ZPUnNxAH4ACxh650J0AAYkaW5pdCRzcQB+AAsAK1LedAASUHJlY29uZGl0aW9uRmFpbGVkc3EAfgALPUG1z3QACEFDQ0VQVEVEc3EAfgALgkdBgHQABEh0bWxzcQB+AAvswpIPdAAKTk9fQ09OVEVOVHNxAH4AC2RZjUZ0AAhIVFRQXzFfMHNxAH4AC68F0650ABVJTlRFUk5BTF9TRVJWRVJfRVJST1JzcQB+AAsGOYyTdAAjQ09OVEVOVF9TRUNVUklUWV9QT0xJQ1lfUkVQT1JUX09OTFlzcQB+AAtuCmQndAAVYmFrZUNvb2tpZXMkZGVmYXVsdCQ0c3EAfgALzOhzl3QAB1VQR1JBREVzcQB+AAuPYjD2dAALYmFrZUNvb2tpZXNzcQB+AAv9JBo5dAAJTk9UX0ZPVU5Ec3EAfgALoPvJenQAB3Nlc3Npb25zcQB+AAseVd+RdAALc2F2ZU1lc3NhZ2VzcQB+AAvPIXsodAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALeYf1tnQAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAv4o0tjdAAHRVhQSVJFU3NxAH4AC0kUz490AA5jb3B5JGRlZmF1bHQkM3NxAH4ACxL4A9B0AARjb3B5c3EAfgALGTsqGXQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAvi/euJdAAGaGVhZGVyc3EAfgALXw6WRXQAEFVQR1JBREVfUkVRVUlSRURzcQB+AAvJTygCdAAPVG9vTWFueVJlcXVlc3Rzc3EAfgAL/uOVQHQAH05FVFdPUktfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAvAs324dAAIdG9TdHJpbmdzcQB+AAsJoXOpdAAMVW5hdXRob3JpemVkc3EAfgALN1Py4XQADlJlcXVlc3RUaW1lb3V0c3EAfgALXE2QnHQABkFDQ0VQVHNxAH4AC6nc1f50AApVcmlUb29Mb25nc3EAfgALClzC6XQAD0dBVEVXQVlfVElNRU9VVHNxAH4ACziqRQR0AAtNdWx0aVN0YXR1c3NxAH4ACwx8+FF0AAZTRVJWRVJzcQB+AAvBa3LOdAAdQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9NRVRIT0RzcQB+AAsb9CPAdAAUVU5QUk9DRVNTQUJMRV9FTlRJVFlzcQB+AAsvelrDdAAWQUNDRVNTX0NPTlRST0xfTUFYX0FHRXNxAH4ACzxtRz50AAhzZW5kUGF0aHNxAH4AC6zsNz90AApzZW5kRW50aXR5c3EAfgALjcr54XQAAiE9c3EAfgALdWnkHHQADUxBU1RfTU9ESUZJRURzcQB+AAtftHq9dAAdQUNDRVNTX0NPTlRST0xfRVhQT1NFX0hFQURFUlNzcQB+AAvMDbxGdAAeQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTc3EAfgALfd2gxXQAC3dpdGhDaGFyc2V0c3EAfgALS8tWvnQACENvbmZsaWN0c3EAfgALBeUp+nQABUFMTE9Xc3EAfgALa2ktFXQABkNPT0tJRXNxAH4AC/YiM5t0ABFJRl9NT0RJRklFRF9TSU5DRXNxAH4AC3gPCgB0AAhnZXRDbGFzc3NxAH4ACylg4LR0AANYbWxzcQB+AAvHlnOOdAAZQ09OVEVOVF9UUkFOU0ZFUl9FTkNPRElOR3NxAH4AC8CYY8l0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC38J9750AARIVE1Mc3EAfgALPHfHwXQABUZvdW5kc3EAfgALvF4JQHQAHU5PTl9BVVRIT1JJVEFUSVZFX0lORk9STUFUSU9Oc3EAfgALt7mv1nQABnJlbmRlcnNxAH4AC5VKeRJ0AAZQUkFHTUFzcQB+AAureLpVdAAISUZfTUFUQ0hzcQB+AAvpSMWzdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAsbsv8ydAANUkVTRVRfQ09OVEVOVHNxAH4AC4GBF6x0AAlTRUVfT1RIRVJzcQB+AAvVVJrTdAAdTmV0d29ya0F1dGhlbnRpY2F0aW9uUmVxdWlyZWRzcQB+AAslCcJLdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAtxKHBIdAACbmVzcQB+AAuE4iaVdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC9kI0kx0ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALbRCqqXQABVJBTkdFc3EAfgALUlbsJ3QAD3dpdGhEYXRlSGVhZGVyc3NxAH4AC2HrKsZ0AAlVU0VfUFJPWFlzcQB+AAuKQ0m3dAAHQWNjZXB0c3NxAH4AC/Uxwkx0AAdDSFVOS0VEc3EAfgALis/1mHQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgAL7TD8UnQAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4ACxZhY/N0AAZMT0NLRURzcQB+AAsURCtYdAAbUmVxdWVzdEhlYWRlckZpZWxkc1Rvb0xhcmdlc3EAfgALtUloa3QAEnNlbmRQYXRoJGRlZmF1bHQkM3NxAH4AC/zyasN0AAZBY3Rpb25zcQB+AAtYkJYtdAAESnNvbnNxAH4AC44yP/F0AAlGT1JCSURERU5zcQB+AAs0wr0SdAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgALaXHdDHQAAmVxc3EAfgALI52aF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC7uBf4h0AA1JRl9OT05FX01BVENIc3EAfgALRNgT13QADUFDQ0VQVF9SQU5HRVNzcQB+AAtyiD3rdAAJTm9Db250ZW50c3EAfgAL2Z8rs3QAEFhfUkVRVUVTVEVEX1dJVEhzcQB+AAsmKBrAdAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAvNKusydAAIQ29udGludWVzcQB+AAsmJb0fdAAMTVVMVElfU1RBVFVTc3EAfgALgYNDKnQAAiMjc3EAfgALEJUjP3QACGZpbmFsaXplc3EAfgAL8bglxnQAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAvCOcmRdAAFaW5kZXhzcQB+AAtj6WeYdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAur6AWpdAAIaGFzaENvZGVzcQB+AAu8ygjhdAAGU3RhdHVzc3EAfgALB6iq3HQAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDRzcQB+AAuNcTaldAALd2l0aEhlYWRlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgJfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZY29udHJvbGxlcnMuQm90Q29udHJvbGxlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAE2phdmF4LmluamVjdC5JbmplY3R0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgJ5c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Al9MAAlpbmhlcml0ZWRxAH4CX0wAB3BhcmVudHNxAH4CX3hxAH4CfnNxAH4CeXVxAH4CWgAAAABzcQB+Anl1cQB+AloAAAAAc3EAfgJ5dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAA9zcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgJ9dAASQWJzdHJhY3RDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJ9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgKWdAADYXBpc3EAfgKWdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ApdzcQB+Aop0AA5CYXNlQ29udHJvbGxlcnEAfgKQc3EAfgKKdAAVQmFzZUNvbnRyb2xsZXJIZWxwZXJzcQB+ApBzcQB+Aop0ABFDb250cm9sbGVySGVscGVyc3EAfgKQc3EAfgKKdAAQUmVxdWVzdEltcGxpY2l0c3EAfgKQc3EAfgKKdAAJUmVuZGVyaW5ncQB+ApBzcQB+Aop0ABFSZXF1ZXN0RXh0cmFjdG9yc3EAfgKQc3EAfgKKdAAQQWNjZXB0RXh0cmFjdG9yc3EAfgKQc3EAfgKKdAAMQ29udGVudFR5cGVzc3EAfgKOc3EAfgKRdXEAfgKUAAAABHNxAH4ClnQABHBsYXlzcQB+ApZxAH4Cm3NxAH4ClnQABGh0dHBxAH4Cn3NxAH4CinQAC0hlYWRlck5hbWVzcQB+ArBzcQB+Aop0AAZTdGF0dXNxAH4CsHNxAH4CinQADEh0dHBQcm90b2NvbHEAfgKwc3EAfgKKdAAHUmVzdWx0c3EAfgKQc3EAfgKKdAAGT2JqZWN0c3EAfgKOc3EAfgKRdXEAfgKUAAAAA3NxAH4ClnQABGphdmFzcQB+ApZ0AARsYW5ncQB+Ap9zcQB+Aop0AANBbnlzcQB+Ao5zcQB+ApF1cQB+ApQAAAACc3EAfgKWdAAFc2NhbGFxAH4Cn3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0m+3aCHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADovaG9tZS9taWtpL0lkZWFQcm9qZWN0cy9zbGFja2JvdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQmtXN6KaaQUqKOktTwh2CNEZ5TI=
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhweFkBoAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQggTjHQABm5vdGlmeXNxAH4ADEJyXfV0AAR3YWl0c3EAfgAMHeiSQHQADSRhc0luc3RhbmNlT2ZzcQB+AAwggMtFdAAGZXF1YWxzc3EAfgAMRuruV3QADGFzSW5zdGFuY2VPZnNxAH4ADOFkQPt0AAxzeW5jaHJvbml6ZWRzcQB+AAz3dBWrdAANJGlzSW5zdGFuY2VPZnNxAH4ADLcHSuN0AAlub3RpZnlBbGxzcQB+AAwt1Pl+dAAMaXNJbnN0YW5jZU9mc3EAfgAMXBkbPXQABjxpbml0PnNxAH4ADJLNqjl0AAI9PXNxAH4ADEUpfqB0AAVjbG9uZXNxAH4ADFIDOQZ0AAh0b1N0cmluZ3NxAH4ADMDJLfZ0AAIhPXNxAH4ADLptDRZ0AAhnZXRDbGFzc3NxAH4ADFiK9iJ0AAJuZXNxAH4ADEWdnkZ0AApCb3RTZXJ2aWNlc3EAfgAMMqKgU3QAAmVxc3EAfgAMBuDne3QAAiMjc3EAfgAMykRwnHQACGZpbmFsaXplc3EAfgAMUyCKcXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAAigpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQACVNpbmdsZXRvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AWnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFamF2YXhzcQB+AGZ0AAZpbmplY3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AZ3NyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3NlcnZpY2VzLkJvdFNlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABNqYXZheC5pbmplY3QuSW5qZWN0dAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AWnNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AFtzcQB+AHt1cQB+ADwAAAAAc3EAfgB7dXEAfgA8AAAAAHNxAH4Ae3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBYdAAGT2JqZWN0c3EAfgBec3EAfgBhdXEAfgBkAAAAA3NxAH4AZnQABGphdmFzcQB+AGZ0AARsYW5ncQB+AG1zcQB+AFh0AANBbnlzcQB+AF5zcQB+AGF1cQB+AGQAAAACc3EAfgBmdAAFc2NhbGFxAH4AbXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACHNlcnZpY2Vzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0m+w23HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADovaG9tZS9taWtpL0lkZWFQcm9qZWN0cy9zbGFja2JvdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/lTAtaA/74dUbCWB2kJ29zHmRM8=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIDwClwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwi+EPWXQABm5vdGlmeXNxAH4ADF+v5f50AA5fZGVmYXVsdFByZWZpeHNxAH4ADOG2YRl0AAR3YWl0c3EAfgAM61mLYnQADSRhc0luc3RhbmNlT2ZzcQB+AAxvhVJodAAGZXF1YWxzc3EAfgAMlAd6FHQADGFzSW5zdGFuY2VPZnNxAH4ADJXjUnl0AAxzeW5jaHJvbml6ZWRzcQB+AAy0N6u2dAANJGlzSW5zdGFuY2VPZnNxAH4ADFCG/gl0AA1SZXZlcnNlQXNzZXRzc3EAfgAMAUt0/nQACW5vdGlmeUFsbHNxAH4ADDzcCf50AAxpc0luc3RhbmNlT2ZzcQB+AAyhJy4DdAAGPGluaXQ+c3EAfgAM8ThI93QACmdldE1lc3NhZ2VzcQB+AAyu41lsdAACPT1zcQB+AAxlRux8dAAFY2xvbmVzcQB+AAxby93SdAAUUmV2ZXJzZUJvdENvbnRyb2xsZXJzcQB+AAwy0zvvdAAIdG9TdHJpbmdzcQB+AAxx4CxKdAACIT1zcQB+AAwD1DXidAAIZ2V0Q2xhc3NzcQB+AAye/hXzdAACbmVzcQB+AAyntHFQdAAJdmVyc2lvbmVkc3EAfgAMGpPOtHQAAmVxc3EAfgAM3Jn3yXQAAiMjc3EAfgAMIDkVzXQACGZpbmFsaXplc3EAfgAM6rCOJHQABWluZGV4c3EAfgAMI6Ndb3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIGNvbnRyb2xsZXJzLlJldmVyc2VCb3RDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGlzcQB+AGR1cQB+AEYAAAAAc3EAfgBkdXEAfgBGAAAAAHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgnNxAH4AdXQAA0FueXNxAH4AeXNxAH4AfHVxAH4AfwAAAAJzcQB+AIF0AAVzY2FsYXEAfgCIc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQAGWNvbnRyb2xsZXJzLlJldmVyc2VBc3NldHN1cQB+AFsAAAAAcQB+AF91cQB+AGEAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcQB+AGRxAH4AanNxAH4AZHNxAH4AbHNxAH4AZHVxAH4ARgAAAABzcQB+AGR1cQB+AEYAAAAAc3EAfgBkdXEAfgBzAAAAAnNxAH4AdXEAfgB4c3EAfgB5c3EAfgB8dXEAfgB/AAAAA3NxAH4AgXEAfgCEc3EAfgCBcQB+AIZxAH4AiHNxAH4AdXEAfgCKc3EAfgB5c3EAfgB8dXEAfgB/AAAAAnNxAH4AgXEAfgCPcQB+AIh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdJvsNtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6L2hvbWUvbWlraS9JZGVhUHJvamVjdHMvc2xhY2tib3QvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGGk2I62yC7DV1aa4nbxQGfRe4vS
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNwXP8AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwk2MOlnQABm5vdGlmeXNxAH4ADBo9fWJ0AA5fZGVmYXVsdFByZWZpeHNxAH4ADJN4pa50AAR3YWl0c3EAfgAM6QXd6nQADSRhc0luc3RhbmNlT2ZzcQB+AAzhYLjCdAAGZXF1YWxzc3EAfgAM9JccsXQADGFzSW5zdGFuY2VPZnNxAH4ADC7Zw6R0AAxzeW5jaHJvbml6ZWRzcQB+AAxoUcFgdAANJGlzSW5zdGFuY2VPZnNxAH4ADHSdBVt0AA1SZXZlcnNlQXNzZXRzc3EAfgAMy2ydc3QACW5vdGlmeUFsbHNxAH4ADF0SJ9B0AAxpc0luc3RhbmNlT2ZzcQB+AAxJh20/dAAGPGluaXQ+c3EAfgAMOC9T/nQACmdldE1lc3NhZ2VzcQB+AAyMI873dAACPT1zcQB+AAxK8GIidAAFY2xvbmVzcQB+AAyTLAVFdAAUUmV2ZXJzZUJvdENvbnRyb2xsZXJzcQB+AAzg9JJodAAIdG9TdHJpbmdzcQB+AAxv1s5fdAACIT1zcQB+AAwsrxnddAAIZ2V0Q2xhc3NzcQB+AAwFph71dAACbmVzcQB+AAyx/FkzdAAJdmVyc2lvbmVkc3EAfgAM9cDQ/nQAAmVxc3EAfgAMID2IlXQAAiMjc3EAfgAMbih1DnQACGZpbmFsaXplc3EAfgAMOadIK3QABWluZGV4c3EAfgAMOgvgz3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAK2NvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUJvdENvbnRyb2xsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaXNxAH4AZHVxAH4ARgAAAABzcQB+AGR1cQB+AEYAAAAAc3EAfgBkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCBdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCCc3EAfgB1dAADQW55c3EAfgB5c3EAfgB8dXEAfgB/AAAAAnNxAH4AgXQABXNjYWxhcQB+AIhzcQB+AEhxAH4AVXVxAH4AVgAAAABzcQB+AFgAdAAkY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXNzZXRzdXEAfgBbAAAAAHEAfgBfdXEAfgBhAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3EAfgBkcQB+AGpzcQB+AGRzcQB+AGxzcQB+AGR1cQB+AEYAAAAAc3EAfgBkdXEAfgBGAAAAAHNxAH4AZHVxAH4AcwAAAAJzcQB+AHVxAH4AeHNxAH4AeXNxAH4AfHVxAH4AfwAAAANzcQB+AIFxAH4AhHNxAH4AgXEAfgCGcQB+AIhzcQB+AHVxAH4AinNxAH4AeXNxAH4AfHVxAH4AfwAAAAJzcQB+AIFxAH4Aj3EAfgCIdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4ArXQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0m+w23HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADovaG9tZS9taWtpL0lkZWFQcm9qZWN0cy9zbGFja2JvdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqS0Y2nuO/qhp9nrnwpAOc87TIaQ=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHwhVrAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC3osTnQABm5vdGlmeXNxAH4ADCIhT+10AAZBc3NldHNzcQB+AAxteurUdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVNlzidAAGZXF1YWxzc3EAfgAMHFf+EXQADUJvdENvbnRyb2xsZXJzcQB+AAzc8JEedAARcm91dGVzJGphdmFzY3JpcHRzcQB+AAw7is9rdAAJbm90aWZ5QWxsc3EAfgAM0Z8h5HQABjxpbml0PnNxAH4ADFWqzvh0AAh0b1N0cmluZ3NxAH4ADBJgGFd0AAhnZXRDbGFzc3NxAH4ADKHGxs50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AC94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJjb250cm9sbGVycy5yb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0AAxzY2FsYS50aHJvd3N0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AC9MAAlpbmhlcml0ZWRxAH4AL0wAB3BhcmVudHNxAH4AL3hxAH4ATnNxAH4ASXVxAH4AKgAAAABzcQB+AEl1cQB+ACoAAAAAc3EAfgBJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBNdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBNc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBmdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBnc3EAfgAscQB+ADlxAH4AO3EAfgA9cQB+AD5xAH4AQH5xAH4AQXQABk1vZHVsZXVxAH4ARQAAAABzcQB+AElxAH4AT3NxAH4ASXNxAH4AUXNxAH4ASXVxAH4AKgAAAABzcQB+AEl1cQB+ACoAAAAAc3EAfgBJdXEAfgBYAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0m+w23HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADovaG9tZS9taWtpL0lkZWFQcm9qZWN0cy9zbGFja2JvdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqqKCOppR+4S7Gpx+qxv8k1TwVww=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdPDdNwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwiyZn9nQABm5vdGlmeXNxAH4ADGWb3lJ0AApiYWRSZXF1ZXN0c3EAfgAMgJgH0nQABHdhaXRzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAx5b7vQdAANY3JlYXRlSW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMiPJDSXQACmhhbmRsZXJGb3JzcQB+AAyd70i9dAAGb3JFbHNlc3EAfgAMI1FYf3QACW5vdGlmeUFsbHNxAH4ADGRFPGV0AAIvOnNxAH4ADMhmhNR0AAxpc0luc3RhbmNlT2ZzcQB+AAxRHo33dAAGYXNKYXZhc3EAfgAMzktFqHQADGVycm9ySGFuZGxlcnNxAH4ADNc0B4l0AAY8aW5pdD5zcQB+AAxa6Ge3dAACPT1zcQB+AAwEemyzdAAFY2xvbmVzcQB+AAzgRL58dAAGJGluaXQkc3EAfgAMFIsIyXQABlJvdXRlc3NxAH4ADLdI6/B0AAh0b1N0cmluZ3NxAH4ADMm/J8h0AAIhPXNxAH4ADMpR4yt0AAlmYWtlVmFsdWVzcQB+AAxZIoiHdAAIZ2V0Q2xhc3NzcQB+AAwyYEmkdAACbmVzcQB+AAyPm/FydAAKd2l0aFByZWZpeHNxAH4ADB2WsK50AARjYWxsc3EAfgAM91S/fnQAAmVxc3EAfgAM91K9EHQAAiMjc3EAfgAM0hAnwHQACGZpbmFsaXplc3EAfgAMc9JHOnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADXJvdXRlci5Sb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABNqYXZheC5pbmplY3QuSW5qZWN0dAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBdTAAJaW5oZXJpdGVkcQB+AF1MAAdwYXJlbnRzcQB+AF14cQB+AHxzcQB+AHd1cQB+AFgAAAAAc3EAfgB3dXEAfgBYAAAAAHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4AlHQABGNvcmVzcQB+AJR0AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AIh0AAZSb3V0ZXJzcQB+AIxzcQB+AI91cQB+AJIAAAAEc3EAfgCUdAAEcGxheXNxAH4AlHQAA2FwaXNxAH4AlHQAB3JvdXRpbmdxAH4AnXNxAH4AiHQABk9iamVjdHNxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAAEbGFuZ3EAfgCdc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJ11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXSb7g5FdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOi9ob21lL21pa2kvSWRlYVByb2plY3RzL3NsYWNrYm90L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT7qkaEfr7ogW/yYr2DDubIThQ1/Q==
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOzrC1QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwB9T8bHQABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAwaoC4qdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADDRMm350AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMs3atMHQABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMbcpjSHQACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADFWZ3YJ0AAhmaW5hbGl6ZXNxAH4ADO8c6vJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBjc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVxAH4AQAAAAABzcQB+AF51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHxzcQB+AG90AANBbnlzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7dAAFc2NhbGFxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdJvsNtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6L2hvbWUvbWlraS9JZGVhUHJvamVjdHMvc2xhY2tib3QvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDj1tjFCvYqjEFhKQ3ti2cCtggLz
+external apis:
+0 items
+source infos:
+8 items
+/home/miki/IdeaProjects/slackbot/app/Module.scala -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/app/controllers/BotController.scala -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/app/services/BotService.scala -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/Routes.scala -> 
+AAAAAAAAAAA=
+/home/miki/IdeaProjects/slackbot/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdJvsNtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL21pa2kvSWRlYVByb2plY3RzL3NsYWNrYm90L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdJvt2gh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL21pa2kvSWRlYVByb2plY3RzL3NsYWNrYm90L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdJvuDkV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL21pa2kvSWRlYVByb2plY3RzL3NsYWNrYm90L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
